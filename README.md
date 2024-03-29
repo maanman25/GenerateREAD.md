@@ -1,9 +1,7 @@
 # Professional README Generator [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Here is the walkthrough video link
-[Untitled_ Mar 28, 2024 9_46 PM.webm](https://github.com/maanman25/GenerateREAD.md/assets/69931950/0695ce7e-063b-4ae3-84fb-92e4cc576bca)
-
-
+https://drive.google.com/file/d/1ZmFpBchqds74-q02F0o2rPOXI0ENNRhW/view
 
 
 
