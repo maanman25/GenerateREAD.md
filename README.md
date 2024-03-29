@@ -1,4 +1,13 @@
 # Professional README Generator [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+Here is the walkthrough video link
+[Untitled_ Mar 28, 2024 9_46 PM.webm](https://github.com/maanman25/GenerateREAD.md/assets/69931950/0695ce7e-063b-4ae3-84fb-92e4cc576bca)
+
+
+
+
+
+
   
 ## Description
 This application takes user input to relevant, typical README.md criteria and uses the information to automatically generate a personalized, professionl README.md file for use in application development. It will have both input and list selections and will display the license badge at the top of the README. It will also provide a functional Table of Contents within the document.
